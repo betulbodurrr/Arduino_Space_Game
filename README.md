@@ -30,8 +30,8 @@ In this project, we are asked to develop a microcontroller-based game machine us
 
 <br><br>
 
-<img align="center" src="https://github.com/betulbodurrr/Arduino_Space_Game/blob/main/resim_2024-01-31_002245361.png"  height="400" width="700" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/Arduino_Space_Game/blob/main/resim_2024-01-31_002302335.png"  height="300" width="300" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/Arduino_Space_Game/blob/main/resim_2024-01-31_002325315.png"  height="200" width="200" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/Arduino_Space_Game/blob/main/resim_2024-01-31_002402215.png"  height="200" width="300" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/Arduino_Space_Game/blob/main/resim_2024-01-31_002426261.png"  height="400" width="700" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Arduino_Space_Game/blob/main/img1.png"  height="400" width="700" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Arduino_Space_Game/blob/main/img2.png"  height="300" width="300" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Arduino_Space_Game/blob/main/img3.png"  height="200" width="200" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Arduino_Space_Game/blob/main/img4.png"  height="200" width="300" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Arduino_Space_Game/blob/main/img5.png"  height="400" width="700" /></a><br><br>
